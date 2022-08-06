@@ -1,24 +1,29 @@
 import os
 import pandas as pd
 
-df = pd.DataFrame()
-path = '../data/'
-for file in os.listdir(path):
-    df_ = pd.read_csv(path + file)
-    df = pd.concat([df,df_])
+# df = pd.DataFrame()
+# path = '../data/'
+# for file in os.listdir(path):
+#     df_ = pd.read_csv(path + file)
+#     df = pd.concat([df,df_])
 
 # print(df.shape)
 
 # univariate lstm example
 from numpy import array
+import keras
 from keras.models import Sequential
 from keras.layers import LSTM
 from keras.layers import Dense
 
+df = pd.read_csv('test_data.csv')
 
-df = df[(df['Supplier Name']=='Globant') & (df['Function']=='Information Technology And Services') &
-        (df['Service']=='Email Services') & (df['Country']=='New Zealand')]
-# print(df.columns)
+# df = df[(df['Supplier Name']=='Globant') & (df['Function']=='Information Technology And Services') &
+#         (df['Service']=='Email Services') & (df['Country']=='New Zealand') & (df['Region']=='Christchurch, Canterbury, New Zealand')]
+# print(df[['Resources','Year']])
+# df.to_csv('test_data.csv',index=False)
+
+
 
 # split a univariate sequence into samples
 def split_sequence(sequence, n_steps):
@@ -40,20 +45,27 @@ def split_sequence(sequence, n_steps):
 raw_seq = list(df['Resources'].values)
 # choose a number of time steps
 n_steps = 3
+batch_size = 10
 # split into samples
 X, y = split_sequence(raw_seq, n_steps)
+print(y)
 # reshape from [samples, timesteps] into [samples, timesteps, features]
 n_features = 1
 X = X.reshape((X.shape[0], X.shape[1], n_features))
 # define model
 model = Sequential()
-model.add(LSTM(50, activation='relu', input_shape=(n_steps, n_features)))
+model.add(LSTM(128, activation='relu', input_shape=(n_steps, n_features)))
 model.add(Dense(1))
-model.compile(optimizer='adam', loss='mse')
+# model.add(Dense(96))
+# model.add(Dense(1, activation='relu'))
+optimizer = keras.optimizers.Adam(lr=.1)
+model.compile(loss='mean_squared_error', optimizer=optimizer, metrics=['accuracy'])
+# model.compile(optimizer='adam', loss='mse')
 # fit model
-model.fit(X, y, epochs=50, verbose=1)
+callback = keras.callbacks.EarlyStopping(monitor='loss', patience=5)
+model.fit(X, y, epochs=100, verbose=1)#callbacks=[callback])
 # demonstrate prediction
-x_input = array([70, 80, 90])
+x_input = array(X[-1])
 x_input = x_input.reshape((1, n_steps, n_features))
-yhat = model.predict(x_input, verbose=0)
-print(yhat)
+yhat = model.predict(x_input, verbose=1)
+print(yhat[0])
