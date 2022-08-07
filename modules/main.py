@@ -2,13 +2,14 @@ import os
 import pandas as pd
 
 df = pd.DataFrame()
-path = '../data/'
+path = '../forecast/'
 for file in os.listdir(path):
     df_ = pd.read_csv(path + file)
     df = pd.concat([df,df_])
 
+df.to_csv('../data/forecast_2020.csv',index=False)
 # print(df.shape)
-
+'''
 # univariate lstm example
 from numpy import array
 import keras
@@ -93,4 +94,4 @@ for i,r in df1.iterrows():
 pred_df = pred_df[['Supplier Name', 'Function', 'Region', 'Country', 'Resources',
        'Service', 'Year', 'Avg. Cost($)', 'Rating', 'Average Delivery Time',
        'Number of Escalations']]
-pred_df.to_csv('../data/forecast_2020.csv',index=False)
+pred_df.to_csv('../data/forecast_2020.csv',index=False)'''
