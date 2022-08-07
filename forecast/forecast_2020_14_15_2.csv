@@ -1,0 +1,275 @@
+Supplier Name,Function,Region,Country,Resources,Service,Year,Avg. Cost($),Rating,Average Delivery Time,Number of Escalations
+Kaiser Permanente,Hospital & Health Care,"Sint Hubert, North Brabant, Netherlands",Netherlands,52368.4,X ray/radiology services,2020,150.66277,54.571068,172.759,23.271753
+Northern Trust Corporation,Financial Services,"Kristiansand, Vest-Agder, Norway",Norway,7737.963,Debt Management,2020,1.6718154,46.795223,177.8321,57.145485
+Informatica,Computer Software,"Liverpool, New South Wales, Australia",Australia,4472.346,Desktop Publishing,2020,63.199192,0.09836626,218.62523,100.56831
+Mantech,Information Technology And Services,"Hemel Hempstead, Hertford, United Kingdom",United Kingdom,3378.355,Hardware support,2020,58.813274,53.07835,133.88573,90.108475
+Howard Hanna Real Estate Services,Real Estate,"Edenvale, Gauteng, South Africa",South Africa,4925.634,Property Staging,2020,115.329735,50.28338,117.75083,97.27933
+Diebold Nixdorf,Financial Services,"Juarez, Mexico, Mexico",Mexico,7755.4326,Tax/Audit Consulting,2020,123.944305,52.662556,90.38674,1.3863951
+Allen Tate Realtors,Real Estate,"Julfa, Ras Al Khaimah, United Arab Emirates",United Arab Emirates,2468.4668,Selling Real Estate,2020,118.703384,55.059025,254.52501,87.24268
+Allscripts,Computer Software,"Poortugaal, South Holland, Netherlands",Netherlands,10097.939,Multiprogramming,2020,0.6730958,0.7232069,173.53197,87.724815
+Globant,Information Technology And Services,"Kingston, Ontario, Canada",Canada,3250.7725,Email Services,2020,50.083355,73.254616,159.87425,69.90158
+Re/Max,Real Estate,"Chengdu, Sichuan, China",China,11491.718,Property consultants,2020,128.57355,51.221764,160.13454,75.28089
+Voya Financial,Financial Services,"Kortrijk, West-Vlaanderen, Belgium",Belgium,2347.639,Debt Management,2020,138.57178,55.983536,155.75978,68.90023
+Quest Diagnostics,Hospital & Health Care,"Selatan, East Java, Indonesia",Indonesia,10535.969,X ray/radiology services,2020,98.51798,60.363716,96.653755,86.815475
+Centene Corporation,Hospital & Health Care,"Bangalore, Karnataka, India",India,8147.1914,Emergency room services,2020,120.29936,82.52391,173.84192,84.7845
+Yardi,Computer Software,"Juarez, Mexico, Mexico",Mexico,2074.835,Application Software,2020,44.750904,57.990303,154.38945,0.11311578
+Dimension Data,Information Technology And Services,"Drøbak, Akershus, Norway",Norway,9382.756,Hardware support,2020,68.04729,74.208374,112.57323,60.519093
+Peacehealth,Hospital & Health Care,"La Plata, Buenos Aires, Argentina",Argentina,3160.6414,Emergency room services,2020,0.47340244,72.93365,1.9356127,1.1119628
+Netsuite,Computer Software,"Porto, Porto, Portugal",Portugal,8438.24,Application Software,2020,0.85767996,63.84844,182.6305,85.59481
+Momentum,Financial Services,"Sariyer, Istanbul, Turkey",Turkey,4273.772,Banking,2020,150.81494,48.08682,110.11197,100.934235
+Virtusa,Computer Software,"Croydon, Greater London, United Kingdom",United Kingdom,5721.2217,Database Management,2020,43.87614,52.26531,0.4920895,1.3560021
+Advocate Health Care,Hospital & Health Care,"Lasne, Walloon Brabant Province, Belgium",Belgium,4730.023,Transportation,2020,88.842125,66.71142,112.07227,1.0445869
+F-Secure Corporation,Computer Software,"Port Elizabeth, Eastern Cape, South Africa",South Africa,1717.4481,Multiprogramming,2020,66.38373,61.40837,184.74535,98.169426
+Amc,Hospital & Health Care,"Ellerslie, Auckland, New Zealand",New Zealand,5052.2437,Transportation,2020,87.00862,54.85922,111.39624,83.88905
+Igt,Computer Software,"Stockholm, Stockholms Lan, Sweden",Sweden,5658.4097,Multiprogramming,2020,0.88764954,0.49257872,110.78851,93.525475
+Unitedhealth Group,Hospital & Health Care,"Wetzikon, Zurich, Switzerland",Switzerland,50152.38,Laboratory services,2020,158.67436,74.86342,71.63263,28.389362
+Opentext,Computer Software,"Brussels, Brussels Capital, Belgium",Belgium,7811.5684,User Interface,2020,0.65083486,63.24235,88.333534,88.18154
+Sopra Steria,Information Technology And Services,"Leeuwarden, Friesland, Netherlands",Netherlands,29936.375,Backup & Disaster Recovery,2020,56.843246,74.534744,125.16252,77.363686
+Northern Trust Corporation,Financial Services,"Umraniye, Istanbul, Turkey",Turkey,7422.6147,Professional Advisory,2020,109.23946,66.14495,46.05566,71.41543
+Freddie Mac,Financial Services,"Lowell, Massachusetts, United States",Singapore,6539.9336,Mutual Funds,2020,1.2200023,75.21448,1.1374474,104.849915
+Servicenow,Computer Software,"Brumunddal, Hedmark, Norway",Norway,5981.1826,Database Management,2020,56.967308,62.854427,179.66722,85.83536
+Hsbc Global Banking And Markets,Financial Services,"Poznan, Wielkopolskie, Poland",Poland,6861.3955,Wealth Management,2020,1.602735,58.30281,85.57649,1.158883
+Avanade,Information Technology And Services,"New York, New York, United States",Singapore,8609.218,Cloud Services,2020,85.37205,81.75008,122.10777,96.55729
+Imss,Hospital & Health Care,"Julfa, Ras Al Khaimah, United Arab Emirates",United Arab Emirates,21917.465,X ray/radiology services,2020,72.1499,83.88846,2.1406279,0.43713525
+Peacehealth,Hospital & Health Care,"Appenzell, Appenzell Innerrhoden, Switzerland",Switzerland,5011.961,Short-term hospitalization,2020,109.45073,62.9209,207.5564,91.39826
+Lincoln Property Company,Real Estate,"Tampere, Pirkanmaa, Finland",Finland,3111.544,Selling Real Estate,2020,0.9668844,2.233507,107.90578,91.87122
+University Of Chicago Medicine,Hospital & Health Care,"Modena, Emilia-Romagna, Italy",Italy,6448.072,X ray/radiology services,2020,109.25061,1.317357,109.66797,109.29422
+Florida Hospital,Hospital & Health Care,"Surabaya, Jawa Timur, Indonesia",Indonesia,6084.361,Nutritional support,2020,80.70042,53.368866,1.8829758,75.82862
+Citi,Financial Services,"Oostende, West-Vlaanderen, Belgium",Belgium,121454.82,Tax/Audit Consulting,2020,277.86017,0.56452787,205.62329,46.276016
+Snap Inc.,Computer Software,"Box, Uusimaa, Finland",Finland,2738.8909,Database Management,2020,1.1857252,78.80684,232.52943,93.77513
+Willis Towers Watson,Financial Services,"Faridabad, Haryana, India",India,27219.426,Mutual Funds,2020,199.186,80.80858,197.39864,72.52499
+"Ameriprise Financial Services, Inc.",Financial Services,"Katowice, Slaskie, Poland",Poland,19034.756,Banking,2020,173.05049,52.659294,201.40904,92.281746
+Oracle,Information Technology And Services,"Bandung, Jawa Barat, Indonesia",Indonesia,103697.484,Cloud Services,2020,167.22475,84.9157,199.33817,12.898125
+Simon Property Group,Real Estate,"Apeldoorn, Gelderland, Netherlands",Netherlands,3205.6292,Building contractors,2020,118.72526,66.427505,93.192535,79.10702
+Krajowy Fundusz Kapitałowy Sa,Financial Services,"Laren, Noord-Holland, Netherlands",Netherlands,3216.895,Wealth Management,2020,150.15802,74.25992,63.400677,89.16704
+Csc,Information Technology And Services,"Jakarta, Jakarta Raya, Indonesia",Indonesia,49758.457,Backup & Disaster Recovery,2020,137.19714,76.55757,149.1867,63.794582
+Gfi Informatique,Information Technology And Services,"Guangzhou, Guangdong, China",China,2810.4497,Help Desk Support,2020,51.964535,70.97075,158.48701,76.50803
+Kindred Healthcare,Hospital & Health Care,"Gdynia, Pomorskie, Poland",Poland,7472.485,Laboratory services,2020,116.57438,1.4154618,139.0962,77.53503
+First Team Real Estate,Real Estate,"Kochi, Kerala, India",India,1463.966,Selling Real Estate,2020,117.06843,67.158,187.92566,94.913635
+Barfoot & Thompson,Real Estate,"Turku, Finland Proper, Finland",Finland,2275.2747,Home inspection,2020,123.87838,73.500786,160.80032,99.74809
+Leidos,Information Technology And Services,"Grafton, Auckland, New Zealand",New Zealand,11707.561,IT Consulting,2020,80.12939,51.029583,255.75395,73.58299
+Hsbc Global Banking And Markets,Financial Services,"Buenos Aires, Buenos Aires F.D., Argentina",Argentina,8703.524,Professional Advisory,2020,116.09417,0.42300922,135.73006,0.40823507
+Unc Health Care,Hospital & Health Care,"Bandung, Jawa Barat, Indonesia",Indonesia,6012.7065,Nutritional support,2020,109.391,63.14406,2.4196103,97.52572
+Bouygues Immobilier,Real Estate,"Fayetteville, Arkansas, United States",United States,2117.7146,Architects,2020,116.34001,56.14445,92.20149,87.41642
+F-Secure Corporation,Computer Software,"Parow, Western Cape, South Africa",South Africa,1431.2317,Application Software,2020,42.194454,38.776043,97.918884,76.13051
+Kaiser Permanente,Hospital & Health Care,"Ase, Vasternorrlands Lan, Sweden",Sweden,71320.484,Short-term hospitalization,2020,177.0941,91.94961,248.14284,34.250576
+Johns Hopkins Hospital,Hospital & Health Care,"Jakarta, Jakarta Raya, Indonesia",Indonesia,8093.096,Nutritional support,2020,117.74032,67.76312,196.06061,0.47473723
+Fraser Health Authority,Hospital & Health Care,"Stenungsund, Vaestra Goetaland, Sweden",Sweden,6477.8286,Nutritional support,2020,111.48304,70.96266,205.86673,91.21396
+Lopes Consultoria De Imóveis - Imóveis De Terceiros,Real Estate,"Beetsterzwaag, Friesland, Netherlands",Netherlands,2051.7974,Buying Real Estate,2020,124.456406,0.48665124,0.86529994,88.803474
+Iqvia,Hospital & Health Care,"Sandown, Gauteng, South Africa",South Africa,30493.111,Laboratory services,2020,127.235115,80.31129,2.114073,66.12389
+Sabre Corporation,Information Technology And Services,"Brumunddal, Hedmark, Norway",Norway,4427.631,Computer Training,2020,48.96511,51.319294,147.44817,86.82659
+Concur,Computer Software,"Örebro Län, Örebro, Sweden",Sweden,3915.6907,Multimedia Authoring Software,2020,45.017544,75.4493,207.07346,87.32456
+Nationwide Building Society,Financial Services,"Solna, Stockholm, Sweden",Sweden,4645.7847,Wealth Management,2020,130.48973,0.27514398,141.4374,2.0881495
+Softwareone,Computer Software,"Guangzhou, Guangdong, China",China,2207.3271,Personal Productivity Software,2020,62.509502,69.89169,197.02048,95.987526
+Toll Brothers,Real Estate,"St. Gallen, Saint Gallen, Switzerland",Switzerland,1872.8849,Architects,2020,115.2017,47.24143,94.04974,82.5413
+Compucom,Information Technology And Services,"Takapuna, Auckland, New Zealand",New Zealand,6241.62,Backup & Disaster Recovery,2020,0.3312664,0.73929715,217.80235,83.0464
+Howard Hanna Real Estate Services,Real Estate,"Punta Gorda, Florida, United States",United States,3449.7495,Home inspection,2020,122.99777,66.13737,99.5642,82.91408
+Knight Frank,Real Estate,"Bochum, Nordrhein-Westfalen, Germany",Germany,2902.7861,Property consultants,2020,127.05415,73.94283,1.557731,0.50102025
+Kindred Healthcare,Hospital & Health Care,"Root, Lucerne, Switzerland",Switzerland,13268.265,Emergency room services,2020,94.46744,81.50549,237.45822,96.747444
+Mount Sinai Health System,Hospital & Health Care,"Newmarket, Ontario, Canada",Canada,2938.733,Short-term hospitalization,2020,91.6019,75.63105,74.665596,74.60738
+Molina Healthcare,Hospital & Health Care,"Bellinzona, Ticino, Switzerland",Switzerland,3715.7136,Short-term hospitalization,2020,89.27166,55.38067,139.2465,67.938965
+Loandepot,Financial Services,"Bielsko-Biala, Slaskie, Poland",Poland,2130.9492,Wealth Management,2020,1.2372657,51.31904,110.978676,79.83469
+Citi,Financial Services,"Waregem, West-Vlaanderen, Belgium",Belgium,92277.78,Stock Market,2020,250.51459,52.836555,50.972553,0.78084004
+Discover Financial Services,Financial Services,"Aachen, North Rhine-Westphalia, Germany",Germany,10485.651,Debt Management,2020,158.66719,90.61225,156.73767,1.0579579
+Lopes Consultoria De Imóveis,Real Estate,"Brumunddal, Hedmark, Norway",Norway,5000.393,Rental and investment properties,2020,116.56609,79.46855,164.4926,93.364685
+Workday,Computer Software,"Drøbak, Akershus, Norway",Norway,7582.38,Multiprogramming,2020,0.28442737,44.841225,130.21791,85.54843
+Meb,Real Estate,"Morelia, Michoacan, Mexico",Mexico,11727.315,New Construction,2020,138.53702,61.534966,130.49693,2.8257148
+Tech Data,Information Technology And Services,"Benito Juarez, Mexico City, Mexico",Mexico,7961.57,IT Consulting,2020,77.282715,67.09954,193.63261,0.64710456
+Citi,Financial Services,"Roodepoort, Gauteng, South Africa",South Africa,123630.87,Wealth Management,2020,275.56464,77.802444,140.40187,1.7692915
+Fraser Health Authority,Hospital & Health Care,"Glattbrugg, Zurich, Switzerland",Switzerland,3527.1245,Nutritional support,2020,95.54123,76.18671,173.82768,80.51369
+Irvine Company,Real Estate,"Göteborg, Vaestra Goetaland, Sweden",Sweden,2871.158,Architects,2020,121.29496,62.825787,152.20525,98.925125
+Jll India,Real Estate,"Monterrey, Nuevo Leon, Mexico",Mexico,2101.9683,New Construction,2020,127.13272,68.57878,246.79958,83.415855
+Hsbc Global Banking And Markets,Financial Services,"Gujrat, West Bengal, India",India,7756.387,Professional Advisory,2020,93.991,1.0290807,94.141495,78.78505
+International Sos,Hospital & Health Care,"Mexico, Distrito Federal, Mexico",Mexico,3875.5466,Special surgical services,2020,95.18732,70.2968,191.18784,0.88618994
+Robert Bosch Engineering And Business Solutions Ltd.,Information Technology And Services,"Jyvaeskylae, Central Finland, Finland",Finland,5157.2812,IT Consulting,2020,30.91587,68.0309,148.30614,91.044426
+Bozzuto,Real Estate,"Cherasco, Piedmont, Italy",Italy,760.5397,Home inspection,2020,3.2333882,54.221855,140.17677,1.2204412
+Citrix,Computer Software,"Poortugaal, South Holland, Netherlands",Netherlands,7197.1313,Multimedia Authoring Software,2020,51.112312,76.096,232.80339,2.4405513
+Allen Tate Realtors,Real Estate,"Aabenraa, Syddanmark, Denmark",Denmark,1887.06,Architects,2020,121.94128,93.71756,189.64801,0.5371892
+Re/Max,Real Estate,"Chengdu, Sichuan, China",China,12854.883,Home inspection,2020,0.9954889,0.84952,213.20462,82.999825
+Hsbc Global Banking And Markets,Financial Services,"Nottinghamshire, Nottinghamshire, United Kingdom",United Kingdom,14624.349, Portfolio Management,2020,141.11316,62.53046,1.5605811,74.93265
+Qlik,Computer Software,"Suresnes, Ile-De-France, France",France,1083.8093,Personal Productivity Software,2020,39.544567,52.088287,135.01465,87.84913
+Genesys,Computer Software,"Midrand, Gauteng, South Africa",South Africa,3702.8818,Personal Productivity Software,2020,59.192513,0.2627988,149.50536,104.00234
+Earth Infrastructures Ltd.,Real Estate,"Wrocław, Lower Silesia, Poland",Poland,835.19495,Property consultants,2020,116.65551,64.0884,152.79398,91.6797
+Danske Bank,Financial Services,"Richland, Washington, United States",United States,7037.195,Tax/Audit Consulting,2020,139.82811,0.9632752,56.858986,2.1392434
+Amadeus It Group,Information Technology And Services,"Herlev, Capital Region, Denmark",Denmark,8407.592,Backup & Disaster Recovery,2020,49.964157,53.383377,1.4185503,86.033646
+Sapient,Information Technology And Services,"Bidart, Nouvelle-Aquitaine, France",France,6894.849,Network Management,2020,74.42934,68.3421,208.504,97.56697
+Remax Business,Real Estate,"Wellington, Wellington, New Zealand",New Zealand,911.6023,Architects,2020,124.14881,67.32025,203.68767,1.9565998
+Unc Health Care,Hospital & Health Care,"Växjö, Kronoberg, Sweden",Sweden,5603.4536,General surgical services,2020,99.565926,0.6133071,1.3681971,96.89924
+Nyu Langone Medical Center,Hospital & Health Care,"Raunheim, Hessen, Germany",Germany,7902.5273,General surgical services,2020,79.46318,0.40490302,1.1059791,80.56425
+Mount Sinai Health System,Hospital & Health Care,"Epsom, Auckland, New Zealand",New Zealand,5627.345,Emergency room services,2020,117.93758,0.44924074,147.40263,93.019
+Totvs,Computer Software,"Le Mans, Pays De La Loire, France",France,4984.014,Multimedia Authoring Software,2020,50.30781,64.834,128.2055,72.07579
+Unitedhealth Group,Hospital & Health Care,"Bhubaneswar, Orissa, India",India,51259.383,Blood services,2020,169.82904,70.58645,139.17084,25.733486
+Allen Tate Realtors,Real Estate,"Pearl River, Mississippi, United States",Singapore,2626.4946,New Construction,2020,1.0583606,0.7177327,277.7272,91.79945
+K. Hovnanian Homes,Real Estate,"Rome, Latium, Italy",Italy,1340.2747,Property consultants,2020,118.42447,68.98098,122.26034,86.424866
+Morgan Stanley,Financial Services,"Chengdu, Sichuan, China",China,59638.76, Portfolio Management,2020,1.6933318,72.56628,158.16785,47.675533
+The Corcoran Group,Real Estate,"Heeze, North Brabant, Netherlands",Netherlands,2460.3208,Buying Real Estate,2020,0.9978665,83.23529,205.99678,93.773636
+Mount Sinai Health System,Hospital & Health Care,"High Wycombe, Buckinghamshire, United Kingdom",United Kingdom,6481.5513,Special surgical services,2020,91.01977,62.58088,223.96487,97.83821
+Aveva,Computer Software,"Noord, Noord-Brabant, Netherlands",Netherlands,2518.523,User Interface,2020,47.250027,1.0642658,113.42404,90.28727
+Guardian Life,Financial Services,"Bromley, Greater London, United Kingdom",United Kingdom,373.73605,Banking,2020,163.72383,87.05941,200.21463,88.593124
+First American Title,Real Estate,"Jakarta Pusat, Jakarta Raya, Indonesia",Indonesia,4909.8125,Property Staging,2020,0.62501717,70.71079,128.7106,86.285
+Meb,Real Estate,"Hamilton, Waikato, New Zealand",New Zealand,10449.929,Home inspection,2020,114.40877,69.23696,207.86961,81.4682
+Infosys,Information Technology And Services,"Hamilton, Waikato, New Zealand",New Zealand,77641.05,Computer Training,2020,132.49117,67.4948,171.1671,24.075945
+Maxim Healthcare Services,Hospital & Health Care,"Lund, Skåne, Sweden",Sweden,6768.827,Transportation,2020,70.3168,48.193466,142.93747,66.1197
+Kindred Healthcare,Hospital & Health Care,"Lublin, Lubelskie, Poland",Poland,7863.268,General surgical services,2020,86.730644,59.949135,108.86745,81.58359
+Indiana University Health,Hospital & Health Care,"Forest, Tasmania, Australia",Australia,6599.419,X ray/radiology services,2020,105.97308,68.63914,1.3980935,1.6934774
+William Raveis Real Estate,Real Estate,"Palmerston North, Wellington, New Zealand",New Zealand,1765.4504,Building contractors,2020,114.29361,0.26498178,207.74078,88.48605
+Genesys,Computer Software,"Bellville, Western Cape, South Africa",South Africa,2800.6423,Desktop Publishing,2020,44.230667,70.972855,169.49158,87.92649
+Texas Health Resources,Hospital & Health Care,"Valencia, Comunidad Valenciana, Spain",Spain,5766.724,Nutritional support,2020,130.07362,63.83391,150.20859,1.4860003
+Transamerica,Financial Services,"Baudour, Hainaut Province, Belgium",Belgium,7152.5522,Mutual Funds,2020,138.66956,58.923588,0.64625233,0.90755033
+Igt,Computer Software,"Jebel Ali, Dubai, United Arab Emirates",United Arab Emirates,5804.391,Personal Productivity Software,2020,49.582386,47.714645,126.153275,96.39858
+American Campus Communities,Real Estate,"Canterbury, New South Wales, Australia",Australia,1849.7062,New Construction,2020,121.20094,88.97874,157.5552,94.59829
+Verizon Business,Information Technology And Services,"Litzmannstadt, Lodzkie, Poland",Poland,9691.462,Cloud Services,2020,40.735313,53.82155,159.81184,94.864555
+Apollo Hospitals,Hospital & Health Care,"Jakarta Pusat, Jakarta Raya, Indonesia",Indonesia,9129.75,Emergency room services,2020,0.9787324,84.14257,162.08261,0.92043525
+William Raveis Real Estate,Real Estate,"Roskilde, Sjelland, Denmark",Denmark,3817.185,Buying Real Estate,2020,125.48298,0.5363466,222.44626,91.29715
+Lincoln Property Company,Real Estate,"Tampere, Pirkanmaa, Finland",Finland,3930.8433,New Construction,2020,120.47859,71.84551,139.62883,0.566866
+Nutanix,Computer Software,"Julfa, Ras Al Khaimah, United Arab Emirates",United Arab Emirates,2442.9458,User Interface,2020,62.29626,77.82312,226.75545,95.99601
+Amc,Hospital & Health Care,"Portugal, Portalegre, Portugal",Portugal,4808.705,Transportation,2020,89.57634,75.93607,200.36069,1.2400703
+Sicredi,Financial Services,"Partido De Pilar, Buenos Aires, Argentina",Argentina,6835.2837,Capital Restructuring,2020,159.95995,69.65252,133.42795,87.82924
+Pnc,Financial Services,"Zaragoza, Aragon, Spain",Spain,33016.367,Capital Restructuring,2020,299.9998,75.028366,157.84886,65.242386
+Lifespan,Hospital & Health Care,"Bagneux, Ile-De-France, France",France,24111.682,Mental health care,2020,0.8472066,88.38659,1.9719692,83.0408
+Cartus,Real Estate,"La Plata, Buenos Aires, Argentina",Argentina,3.9345996,Architects,2020,121.11309,40.55498,142.72563,94.26145
+Mindtree,Information Technology And Services,"Christchurch, Canterbury, New Zealand",New Zealand,7811.071,Cybersecurity,2020,0.21669771,71.21445,229.0567,98.333855
+Lifespan,Hospital & Health Care,"Cortlandt Manor, New York, United States",United States,15864.905,Blood services,2020,116.33286,54.439358,106.20602,63.748405
+Hcl Infosystems Ltd,Information Technology And Services,"Bucks, Pennsylvania, United States",Singapore,11687.985,Network Management,2020,60.537945,74.17091,81.07863,89.47502
+Willis Towers Watson,Financial Services,"Chennai, Tamil Nadu, India",India,28733.82,Mutual Funds,2020,150.18138,76.80073,113.44284,78.31652
+Vinci Energies,Information Technology And Services,"Jakarta Pusat, Jakarta Raya, Indonesia",Indonesia,2868.7302,Managed Print Services,2020,53.859104,45.14381,170.62971,67.665695
+Uchealth,Hospital & Health Care,"Şişli, Istanbul, Turkey",Turkey,7075.3467,Short-term hospitalization,2020,102.9317,79.52848,1.500305,100.42842
+Zensar Technologies,Information Technology And Services,"Treviso, Veneto, Italy",Italy,7822.582,Managed Print Services,2020,77.28511,71.73946,180.71507,2.02593
+Rbc Investor & Treasury Services,Financial Services,"Argentina, Santiago Del Estero, Argentina",Argentina,3884.4807,Debt Management,2020,169.9643,47.30213,122.37706,92.35128
+Softserve,Computer Software,"Les Acacias, Geneva, Switzerland",Switzerland,2558.769,Personal Productivity Software,2020,47.11052,63.35888,164.43045,97.461266
+Amadeus It Group,Information Technology And Services,"Newmarket, Ontario, Canada",Canada,12965.981,Managed Print Services,2020,70.49278,78.81824,94.47338,91.01807
+Northwell Health,Hospital & Health Care,"Taastrup, Hovedstaden, Denmark",Denmark,10683.95,X ray/radiology services,2020,106.052124,64.80939,149.53009,78.98327
+Alliance Residential Company,Real Estate,"Fortitude Valley, Queensland, Australia",Australia,1464.1025,Selling Real Estate,2020,120.85569,59.6519,164.47435,0.44952717
+Simon Property Group,Real Estate,"Nanjing, Jiangsu, China",China,3195.0981,Property consultants,2020,123.71038,56.526028,131.94296,90.97913
+Remax Business,Real Estate,"Takapuna, Auckland, New Zealand",New Zealand,930.3845,Buying Real Estate,2020,113.561584,0.70979095,131.29204,83.632706
+Jda Software,Computer Software,"Docklands, Victoria, Australia",Australia,3212.8435,Database Management,2020,55.539597,62.696594,135.93166,79.36679
+National Association Of Realtors®,Real Estate,"Oosterpark, Groningen, Netherlands",Netherlands,1768.389,Buying Real Estate,2020,121.18047,62.831646,203.76447,90.03084
+Commonwealth Bank,Financial Services,"Daira, Dubai, United Arab Emirates",United Arab Emirates,25948.133,Banking,2020,162.02342,58.222626,1.0059284,59.644768
+Westfield,Real Estate,"Edenvale, Gauteng, South Africa",South Africa,2844.2441,Selling Real Estate,2020,123.830086,72.83922,165.77756,95.711525
+Visa,Information Technology And Services,"Grafton, Auckland, New Zealand",New Zealand,15169.536,Computer Training,2020,67.86976,63.69071,236.0706,101.41845
+Ifs,Computer Software,"Genève, Geneva, Switzerland",Switzerland,2467.8398,Multiprogramming,2020,62.728302,78.54292,105.74038,83.92773
+Iron Mountain,Information Technology And Services,"Amadora, Lisbon, Portugal",Portugal,8604.564,Computer Training,2020,0.8350788,66.2779,2.1605825,93.573166
+Indra,Information Technology And Services,"Tauxigny, Centre, France",France,14693.745,Computer Training,2020,60.504868,56.105648,171.154,60.671337
+Quest Software,Computer Software,"Lieusaint, Ile-De-France, France",France,2581.468,Multiprogramming,2020,40.52735,73.04658,128.39331,78.46594
+Lopes Consultoria De Imóveis - Imóveis De Terceiros,Real Estate,"Amadora, Lisbon, Portugal",Portugal,888.92163,Building contractors,2020,116.956535,1.5014738,177.72954,85.622375
+Cognizant Technology Solutions,Information Technology And Services,"Penrose, Auckland, New Zealand",New Zealand,147631.48,Email Services,2020,208.46565,89.32882,228.00938,15.991914
+Hsbc,Financial Services,"Alleur, Liège Province, Belgium",Belgium,84637.07,Mutual Funds,2020,180.43774,71.20427,124.99007,10.205384
+Deltek,Computer Software,"Aaso, Syddanmark, Denmark",Denmark,2628.632,System Software,2020,57.05232,64.16062,185.33043,91.940674
+Providence Health & Services,Hospital & Health Care,"Duivendrecht, North Holland, Netherlands",Netherlands,13164.1045,X ray/radiology services,2020,93.899895,88.31596,88.52165,77.429794
+Sotheby'S International Realty,Real Estate,"Oulu, Northern Ostrobothnia, Finland",Finland,3940.466,Property Staging,2020,1.2128936,83.41897,122.30124,87.25298
+Hsbc Global Banking And Markets,Financial Services,"Federal, Entre Rios, Argentina",Argentina,7733.0415,Stock Market,2020,129.83846,54.38815,2.2430756,67.63284
+Fiserv,Information Technology And Services,"Beşiktaş, Istanbul, Turkey",Turkey,14066.715,Network Management,2020,98.7878,86.526505,175.07703,97.0522
+Erasmus Mc,Hospital & Health Care,"Hangzhou, Zhejiang, China",China,5061.847,X ray/radiology services,2020,1.4145966,51.45314,170.87788,0.28966588
+Watson Realty Corp.,Real Estate,"Dubai, Dubai, United Arab Emirates",United Arab Emirates,1594.1592,Buying Real Estate,2020,110.14855,0.63927746,129.1987,87.31903
+Interior Health Authority,Hospital & Health Care,"Bhilai, Chhattisgarh, India",India,2570.578,Transportation,2020,96.33257,37.821846,170.71555,0.35641405
+Massmutual Financial Group,Financial Services,"Tauranga, Gisborne, New Zealand",New Zealand,6126.1543,Capital Restructuring,2020,138.41483,53.79692,118.87589,71.78641
+Centene Corporation,Hospital & Health Care,"Peking, Beijing, China",China,7963.73,Short-term hospitalization,2020,112.44888,88.73793,84.766335,0.8611156
+Jack Henry & Associates,Computer Software,"Göteborg, Vaestra Goetaland, Sweden",Sweden,5079.502,Application Software,2020,0.5240109,61.377472,117.78689,85.31512
+Rbc Investor & Treasury Services,Financial Services,"La Plata, Buenos Aires, Argentina",Argentina,3667.133,Capital Restructuring,2020,172.36974,79.83947,204.92436,98.47981
+Verizon,Information Technology And Services,"Jakarta, Jakarta, Indonesia",Indonesia,50800.348,Network Management,2020,0.84580743,78.11553,250.54771,61.39334
+Fidelity Investments,Financial Services,"Lille, Hauts-De-France, France",France,28153.873,Banking,2020,163.50015,81.566444,64.1654,52.2257
+Fujitsu,Information Technology And Services,"Toowong, Queensland, Australia",Australia,10337.856,Help Desk Support,2020,62.949234,70.28545,144.32465,48.80833
+Fidelity Investments,Financial Services,"Mexico City, Mexico City, Mexico",Mexico,20293.771, Portfolio Management,2020,102.733604,0.43055975,0.63883054,0.60617816
+Compucom,Information Technology And Services,"Johnsonville, Wellington, New Zealand",New Zealand,3609.1304,Cybersecurity,2020,73.436806,53.20231,78.62992,97.92364
+Bmo Financial Group,Financial Services,"Etiler, Antalya, Turkey",Turkey,19398.562,Stock Market,2020,148.98091,74.1531,141.49449,85.96325
+Old Mutual South Africa,Financial Services,"Sundbyberg, Stockholm, Sweden",Sweden,3195.3398,Professional Advisory,2020,158.9758,60.58735,153.90604,78.99944
+Morningstar,Financial Services,"New Delhi, Nct, India",India,1879.0242,Debt Management,2020,131.909,60.290947,111.05094,91.05588
+Vinci Energies,Information Technology And Services,"Jakarta Pusat, Jakarta Raya, Indonesia",Indonesia,3901.3342,IT Consulting,2020,77.72925,69.364426,135.08087,1.5905688
+Willis Towers Watson,Financial Services,"Norcross, Georgia, United States",Singapore,18238.518,Debt Management,2020,1.2690331,66.54398,167.48372,61.33496
+The Keyes Company,Real Estate,"Larvik, Vestfold, Norway",Norway,2537.0405,Buying Real Estate,2020,115.53725,0.7495174,142.51207,90.75205
+Sicredi,Financial Services,"Abu Dhabi, Abu Dhabi, United Arab Emirates",United Arab Emirates,7059.303,Wealth Management,2020,182.77359,57.288166,93.81041,1.5819324
+Alberta Health Services,Hospital & Health Care,"Groesbeek, Gelderland, Netherlands",Netherlands,12620.813,Nutritional support,2020,68.2636,76.25653,142.63322,66.9022
+The Children'S Hospital Of Philadelphia,Hospital & Health Care,"Dublin, Dublin, Ireland",Singapore,10677.873,Laboratory services,2020,103.6655,70.79893,226.88335,0.5193837
+Efi,Computer Software,"Vaasa, Ostrobothnia, Finland",Finland,2498.9985,Desktop Publishing,2020,0.6195609,93.678825,247.528,88.46738
+Absa,Financial Services,"Sault Ste. Marie, Ontario, Canada",Canada,23615.727,Tax/Audit Consulting,2020,166.6565,74.85656,1.6263245,81.15507
+Compucom,Information Technology And Services,"Beşiktaş, Istanbul, Turkey",Turkey,9098.467,Cybersecurity,2020,76.32488,0.6866217,205.54082,1.2402736
+Mentor Graphics,Computer Software,"Leon, Guanajuato, Mexico",Mexico,2874.8022,Multiprogramming,2020,52.47237,67.58059,141.61456,77.96333
+Snap Inc.,Computer Software,"Sala, Vaestmanland, Sweden",Sweden,2528.2336,Personal Productivity Software,2020,61.164482,66.99085,176.93764,90.54355
+Symantec,Computer Software,"Wellington, Florida, United States",New Zealand,13867.791,Application Software,2020,67.80667,64.08454,153.33597,74.2796
+Telekomunikasi Indonesia,Information Technology And Services,"Milan, Lombardy, Italy",Italy,5585.92,Computer Training,2020,47.207554,56.539516,113.20121,75.96371
+Lehigh Valley Health Network,Hospital & Health Care,"Moglingen, Baden-Wurttemberg, Germany",Germany,2691.2117,General surgical services,2020,74.2044,1.4754695,167.92711,80.32161
+Dalian Wanda Group,Real Estate,"Zollikofen, Bern, Switzerland",Switzerland,2201.616,Selling Real Estate,2020,111.353935,65.38149,52.093563,80.76879
+Discover Financial Services,Financial Services,"Crewe, Cheshire East, United Kingdom",United Kingdom,9587.645,Professional Advisory,2020,171.78123,79.3334,199.37163,90.513664
+Leidos,Information Technology And Services,"Sant Joan Despí, Catalonia, Spain",Spain,16833.496,Computer Training,2020,96.44995,87.06576,165.17456,91.01518
+Sopra Steria,Information Technology And Services,"A, Syddanmark, Denmark",Denmark,18872.752,Help Desk Support,2020,91.96193,46.410954,209.00688,87.43498
+Sibcy Cline Realtors,Real Estate,"Romford, Havering, United Kingdom",United Kingdom,836.684,Building contractors,2020,114.189186,70.29114,88.27598,86.16088
+Diebold Nixdorf,Financial Services,"La Plata, Buenos Aires, Argentina",Argentina,9536.827,Banking,2020,1.2166601,75.03414,209.37009,105.143616
+Sopra Steria,Information Technology And Services,"A, Syddanmark, Denmark",Denmark,16858.967,IT Consulting,2020,105.839294,54.699165,234.60512,79.52768
+Nationwide Childrens Hospital,Hospital & Health Care,"Portugal, Portalegre, Portugal",Portugal,3637.041,General surgical services,2020,91.852264,58.76017,170.37547,83.30177
+Legal & General,Financial Services,"Lecce, Puglia, Italy",Italy,2092.2937,Stock Market,2020,135.22044,55.467537,154.23135,78.884346
+Houlihan Lawrence,Real Estate,"Visakhapatnam, Andhra Pradesh, India",India,1441.9827,Property Staging,2020,124.005165,55.25371,171.51746,1.1111147
+Concur,Computer Software,"Christchurch, Canterbury, New Zealand",New Zealand,3816.914,Application Software,2020,55.664486,0.80700934,157.10674,1.078017
+Vmware,Computer Software,"Jumeirah, Dubai, United Arab Emirates",United Arab Emirates,15577.957,System Software,2020,59.3638,52.60851,0.88444626,64.79498
+Cdk Global,Computer Software,"Sharjah, Sharjah, United Arab Emirates",United Arab Emirates,4387.7324,Desktop Publishing,2020,54.161015,69.15801,132.63957,73.48048
+Jack Henry & Associates,Computer Software,"Cher, Centre, France",France,3580.7705,System Software,2020,55.947495,71.96562,139.3155,90.56757
+Ochsner Health System,Hospital & Health Care,"Hyderabad, Telangana, India",India,7098.349,Short-term hospitalization,2020,114.07445,57.723732,242.56056,1.0609831
+Reecenichols Real Estate,Real Estate,"Bremen, Bremen, Germany",Germany,2267.0007,Buying Real Estate,2020,122.17232,2.0222154,243.7533,89.22816
+Lj Hooker,Real Estate,"Merida, Yucatan, Mexico",Mexico,1565.1605,Rental and investment properties,2020,119.49103,65.28662,113.351616,83.46182
+Md Anderson Cancer Center,Hospital & Health Care,"Geel, Antwerpen, Belgium",Belgium,12403.895,Blood services,2020,119.767876,82.41273,230.27055,1.6717136
+American Express,Financial Services,"Drammen, Buskerud, Norway",Norway,49857.062,Tax/Audit Consulting,2020,123.7732,64.95027,155.35973,68.905754
+"Ansys, Inc.",Computer Software,"Thiruvananthapuram, Kerala, India",India,2236.7078,Application Software,2020,43.641,0.86060864,103.79891,88.49657
+Mphasis,Information Technology And Services,"Antony, Ile-De-France, France",France,19366.244,Hardware support,2020,83.03071,77.89701,208.07108,85.01775
+Imss,Hospital & Health Care,"Espoo, Uusimaa, Finland",Finland,14880.691,General surgical services,2020,0.26231062,66.965546,146.0905,71.84455
+Yale New Haven Hospital,Hospital & Health Care,"Alleur, Liège Province, Belgium",Belgium,5599.4644,Emergency room services,2020,112.72727,43.85484,59.165096,77.8928
+Quest Diagnostics,Hospital & Health Care,"Brasília, Federal District, Brazil",Brazil,11218.546,Laboratory services,2020,91.55003,51.266064,124.10598,59.39279
+Mentor Graphics,Computer Software,"Wilrijk, Antwerp Province, Belgium",Belgium,5344.5576,Application Software,2020,1.608927,65.240234,192.86543,96.14404
+Stockland,Real Estate,"Moscow, Moscow City, Russia",Switzerland,764.32336,New Construction,2020,117.24025,68.636795,155.47044,84.43651
+Pegasystems,Computer Software,"Kanata, Ontario, Canada",Canada,2097.2314,Desktop Publishing,2020,50.709873,73.175606,198.81541,0.79927725
+Caci International Inc,Information Technology And Services,"Zabierzow Bochenski, Malopolskie, Poland",Poland,8785.688,IT Consulting,2020,60.463448,1.3311607,104.92252,81.24886
+Vanguard,Financial Services,"Neu Isenburg, Hesse, Germany",Germany,15191.287,Tax/Audit Consulting,2020,158.39468,78.33492,165.78645,83.92379
+Danske Bank,Financial Services,"St. Gallen, Saint Gallen, Switzerland",Switzerland,12983.394,Professional Advisory,2020,132.86087,56.011032,67.374405,76.33391
+First Data Corporation,Financial Services,"La Plata, Buenos Aires, Argentina",Argentina,14460.816,Debt Management,2020,157.01978,73.67759,229.15561,92.41298
+Harcourts Real Estate,Real Estate,"Palmerston North, Wellington, New Zealand",New Zealand,2807.8284,Buying Real Estate,2020,118.45678,58.972416,82.10019,78.59469
+Avanade,Information Technology And Services,"Newton, Auckland, New Zealand",New Zealand,9587.761,Help Desk Support,2020,101.30602,0.89053565,211.17607,2.6398997
+Uhs,Hospital & Health Care,"Stockholm, Stockholm, Sweden",Sweden,7243.562,General surgical services,2020,101.03237,59.504395,180.32018,97.21614
+Verizon,Information Technology And Services,"Tangerang, Jawa Barat, Indonesia",Indonesia,51693.605,Computer Training,2020,92.62863,55.2449,142.43901,46.794292
+Ca Technologies,Computer Software,"Les Ulis, Île-De-France, France",France,7952.532,Personal Productivity Software,2020,44.217068,63.746525,91.27981,81.45018
+Associated Bank,Financial Services,"Doncaster, Victoria, Australia",Australia,2100.8423,Stock Market,2020,129.48897,33.116734,1.1694083,0.6432269
+Csg International,Computer Software,"Les Acacias, Geneva, Switzerland",Switzerland,1621.3197,Multiprogramming,2020,38.023335,0.4697564,180.36176,87.44308
+Bmo Financial Group,Financial Services,"Vaasa, Ostrobothnia, Finland",Finland,13151.343,Stock Market,2020,103.85519,77.841064,96.1767,71.11892
+Tech Mahindra,Information Technology And Services,"Mariano Moreno, Buenos Aires, Argentina",Argentina,42812.11,Cloud Services,2020,79.89868,52.255623,189.18858,54.608418
+Texas Health Resources,Hospital & Health Care,"Newmarket, Auckland, New Zealand",New Zealand,10863.774,General surgical services,2020,115.64631,77.03844,101.86046,0.39407793
+Erasmus Mc,Hospital & Health Care,"Box, Uusimaa, Finland",Finland,6384.8193,Blood services,2020,0.846681,58.356003,70.13366,107.15909
+@Properties,Real Estate,"Charleroi, Hainaut, Belgium",Belgium,2244.3164,Selling Real Estate,2020,123.33386,78.128845,249.46494,89.44184
+Microstrategy,Computer Software,"Vancouver, British Columbia, Canada",Canada,2334.1953,Operating Systems,2020,0.35389793,65.97835,189.13295,92.645355
+Ochsner Health System,Hospital & Health Care,"Ahmadabad, Gujarat, India",India,7836.8755,X ray/radiology services,2020,115.25552,83.46644,176.64217,86.86663
+Stifel Financial Corp.,Financial Services,"Tangerang, Banten, Indonesia",Indonesia,3662.908, Portfolio Management,2020,1.42738,66.29429,2.0937297,86.80209
+Allen Tate Realtors,Real Estate,"Falkenstein, Sachsen, Germany",Germany,1238.034,Architects,2020,119.11517,40.932663,2.2168117,88.896736
+Leidos,Information Technology And Services,"City Of Johannesburg Metropolitan Municipality, Gauteng, South Africa",South Africa,15339.021,Help Desk Support,2020,1.7164646,63.772266,178.80841,92.25919
+Earthlink,Information Technology And Services,"Xicheng District, Beijing, China",China,11939.731,IT Consulting,2020,0.7354355,54.119022,127.78852,0.97615206
+Reecenichols Real Estate,Real Estate,"Etiler, Antalya, Turkey",Turkey,1953.0513,Property Staging,2020,120.39497,72.24312,170.82211,87.53425
+Dell,Information Technology And Services,"Randburg, Gauteng, South Africa",South Africa,78937.81,Network Management,2020,129.91266,0.5452394,218.82892,41.357327
+Voya Financial,Financial Services,"Soignies, Hainaut, Belgium",Belgium,2440.4512,Professional Advisory,2020,138.79027,44.547703,134.84644,0.9211982
+Western Union,Financial Services,"Poznań, Greater Poland, Poland",Poland,4919.1797,Banking,2020,1.6132925,68.26009,107.34689,0.9139597
+Lopes Consultoria De Imóveis - Imóveis De Terceiros,Real Estate,"Göteborg, Vaestra Goetaland, Sweden",Sweden,1226.3135,Selling Real Estate,2020,1.0946372,69.021645,140.27223,87.47938
+Alliance Residential Company,Real Estate,"Guipavas, Bretagne, France",France,989.07794,Architects,2020,121.61196,79.45635,202.90099,90.32175
+Engel & Völkers,Real Estate,"Tangerang, Jawa Barat, Indonesia",Indonesia,2461.5674,Architects,2020,123.835075,1.3579062,202.1518,88.89549
+Ohiohealth,Hospital & Health Care,"Soignies, Hainaut, Belgium",Belgium,7144.1035,Special surgical services,2020,1.1430279,85.259674,176.80489,1.8872695
+Caci International Inc,Information Technology And Services,"Sydney, New South Wales, Australia",Switzerland,5782.843,Cybersecurity,2020,37.169468,30.407633,162.24445,69.58307
+Imss,Hospital & Health Care,"Vicente Lopez, Buenos Aires, Argentina",Argentina,15930.236,Mental health care,2020,79.62681,53.273148,194.51599,67.52345
+Epic,Computer Software,"Bucks, Pennsylvania, United States",Singapore,4756.074,User Interface,2020,51.217888,47.902428,74.71311,76.974174
+Community Health Systems,Hospital & Health Care,"Thrissur, Kerala, India",India,3702.8064,Transportation,2020,83.304565,48.657917,165.30865,1.759311
+Kaiser Permanente,Hospital & Health Care,"Lowell, Massachusetts, United States",Singapore,66647.71,Special surgical services,2020,166.1864,66.001854,115.680176,1.665662
+Totvs,Computer Software,"Bendigo, Victoria, Australia",Australia,8698.166,Personal Productivity Software,2020,58.842995,65.41011,190.25801,1.550566
+Mantech,Information Technology And Services,"Poznan, Wielkopolskie, Poland",Poland,5634.001,Email Services,2020,82.676994,69.12672,248.54008,111.76791
+Polaris Financial Technology Limited,Information Technology And Services,"Tønsberg, Vestfold, Norway",Norway,3754.2866,Network Management,2020,46.583084,71.34119,0.6729805,84.93891
+Halstead Property,Real Estate,"Kartal, Istanbul, Turkey",Turkey,1223.6987,Buying Real Estate,2020,0.8807905,81.87276,210.14127,91.876785
+Epicor Software,Computer Software,"Rājkot, Gujarat, India",India,2310.6248,Application Software,2020,46.824936,1.0940555,0.94569445,85.518585
+Csg International,Computer Software,"Guipavas, Bretagne, France",France,1335.516,Operating Systems,2020,43.781586,49.09086,149.84175,75.43086
+Virtusa,Computer Software,"Croydon, Greater London, United Kingdom",United Kingdom,10731.803,Operating Systems,2020,67.70167,74.54035,115.16648,1.0462143
+Ally Financial Inc.,Financial Services,"Rājkot, Gujarat, India",India,7252.4443,Mutual Funds,2020,144.78078,88.52966,0.7799937,90.89666
+Irvine Company,Real Estate,"San Donato Milanese, Lombardy, Italy",Italy,1277.1476,Property consultants,2020,126.84085,57.795437,1.7195714,84.93508
+Redfin,Real Estate,"Hunt, Texas, United States",United States,2987.4712,Building contractors,2020,125.823814,68.615845,173.06952,0.6710134
+Deltek,Computer Software,"Singapore, Central Singapore, Singapore",Singapore,2080.4224,System Software,2020,54.188904,52.99056,141.93839,79.34329
+Quest Diagnostics,Hospital & Health Care,"Jakarta Pusat, Jakarta Raya, Indonesia",Indonesia,15085.283,Laboratory services,2020,84.71022,74.34175,175.77235,69.30909
+Ut Southwestern Medical Center,Hospital & Health Care,"Herning, Central Jutland, Denmark",Denmark,2971.7588,General surgical services,2020,85.6008,51.686172,106.12219,82.965096
+Old Mutual,Financial Services,"Vitória, Espirito Santo, Brazil",Brazil,9331.119,Banking,2020,143.91228,80.844604,244.71895,92.532524
+Virtusa,Computer Software,"Bağcılar, Istanbul, Turkey",Turkey,5842.915,Multiprogramming,2020,0.71104133,64.45137,122.953575,88.86567
+Texas Health Resources,Hospital & Health Care,"Epsom, Auckland, New Zealand",New Zealand,8952.814,Emergency room services,2020,88.77398,64.39757,118.32654,98.088036
+Totvs,Computer Software,"Johannesburg, Gauteng, South Africa",South Africa,9444.019,Desktop Publishing,2020,65.74407,95.13306,141.96088,85.21658
+Ust Global,Information Technology And Services,"Mar Del Plata, Buenos Aires, Argentina",Argentina,11576.788,Cloud Services,2020,34.227104,1.3273779,178.45386,87.10389
+Simon Property Group,Real Estate,"Arnhem, Gelderland, Netherlands",Netherlands,1842.1737,Selling Real Estate,2020,118.139534,0.8822427,232.07901,1.6066536
+F-Secure Corporation,Computer Software,"Borås, Vaestra Goetaland, Sweden",Sweden,2847.7979,Application Software,2020,54.75752,77.30511,154.11395,89.67383
+Fairview Health Services,Hospital & Health Care,"Draper, Utah, United States",Australia,5388.9453,Mental health care,2020,87.037926,79.24966,161.46907,89.71801
+Ohsu | Oregon Health & Science University,Hospital & Health Care,"Buenos Aires, Buenos Aires F.D., Argentina",Argentina,4607.117,Transportation,2020,113.55882,79.48802,141.79489,0.75052714
+Ims Health,Information Technology And Services,"Penetanguishene, Ontario, Canada",Canada,6217.097,Network Management,2020,54.913567,83.66589,165.8126,56.59591
